@@ -1,4 +1,4 @@
-minimax
+MiniMax y Poda Alpha-Beta
 =======
 
-Programa para criação de árvores e simulação de algoritmos minimax e poda alpha-beta
+Programa para arboles, simulacion del algoritmo de inteligencia artificial Busqueda MiniMax y poda Alpha-Beta
